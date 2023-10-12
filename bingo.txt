@@ -4,4 +4,8 @@ wc
 nono
 youyo
 
+<<<<<<< HEAD
 yesyse
+=======
+first_time
+>>>>>>> new_ok
